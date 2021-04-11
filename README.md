@@ -22,12 +22,13 @@ A majority of the rides in August 2019 were shorter than 30 minutes. A small amo
 
 ## Results: By Gender
 **Rides by User Gender**
+
 ![](Resources/RidesByUserGender.png)
 
 A large majority of rides in August 2019 were by users who specified the gender MALE. About 25% of all rides were by users who specified the gender FEMALE. 72% of users that provided a gender specified MALE, and 28% of users that provided a gender specified FEMALE. That's about 2.5x as many MALE users than FEMALE users.
 
 **Checkout Duration by Gender**
-![](Resources/ChecoutDurationByGender.png)
+![](Resources/CheckoutDurationByGender.png)
 
 The checkout duration is fairly consistent across all genders - a majority of rides by all genders are less than 30 minutes. The most common trip duration for MALE users is about 5 minutes, and for FEMALE users the most common trip duration is 6 minutes. 
 
