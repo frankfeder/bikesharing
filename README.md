@@ -2,7 +2,8 @@
 ## Overview of the Analysis
 This analysis uses data from Citibike's public API describing user rides in August of 2019. The purpose of this analysis is to derive high-level insights from data visualizations, with a particular focus on peak use hours and differences in user patterns by gender.  
 
-![https://public.tableau.com/profile/frank.feder#!/vizhome/Challenge14FrankFeder/CitibikeAugust2019?publish=yes](All visualizations can be viewed interactively at the Tableau Story here.)
+[All visualizations can be viewed interactively at the Tableau Story here.](https://public.tableau.com/profile/frank.feder#!/vizhome/Challenge14FrankFeder/CitibikeAugust2019?publish=yes)
+Direct link: https://public.tableau.com/profile/frank.feder#!/vizhome/Challenge14FrankFeder/CitibikeAugust2019?publish=yes
 
 ## Results: All Users 
 **Peak Hours**
